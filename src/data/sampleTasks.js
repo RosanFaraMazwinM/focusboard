@@ -1,0 +1,58 @@
+const sampleTasks = [
+  {
+    id: 1,
+    title: 'Complete portfolio website',
+    description: 'Finish the responsive personal portfolio.',
+    category: 'Development',
+    status: 'In progress',
+    priority: 'High',
+    dueDate: '2026-11-24',
+  },
+  {
+    id: 2,
+    title: 'Prepare project presentation',
+    description: 'Prepare slides for the project demo.',
+    category: 'Work',
+    status: 'To do',
+    priority: 'Medium',
+    dueDate: '2026-11-25',
+  },
+  {
+    id: 3,
+    title: 'Review React concepts',
+    description: 'Practice React hooks and components.',
+    category: 'Learning',
+    status: 'Completed',
+    priority: 'High',
+    dueDate: '2026-11-20',
+  },
+  {
+    id: 4,
+    title: 'Update GitHub repositories',
+    description: 'Organize and update project repositories.',
+    category: 'Development',
+    status: 'To do',
+    priority: 'Low',
+    dueDate: '2026-11-27',
+  },
+  {
+    id: 5,
+    title: 'Learn JavaScript ES6',
+    description: 'Revise array methods and modern syntax.',
+    category: 'Learning',
+    status: 'In progress',
+    priority: 'Medium',
+    dueDate: '2026-11-26',
+  },
+  {
+    id: 6,
+    title: 'Complete assignment',
+    description: 'Finish and test the FocusBoard project.',
+    category: 'Work',
+    status: 'To do',
+    priority: 'High',
+    dueDate: '2026-11-28',
+  },
+]
+
+export default sampleTasks
